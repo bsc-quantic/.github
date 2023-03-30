@@ -1,5 +1,3 @@
-## Welcome to Quantic!
-
 Hello there! 👋
 
 We are the Quantic research group! Located at the Barcelona Supercomputing Center (BSC), our research focuses on:
